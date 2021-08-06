@@ -1,0 +1,41 @@
+{
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": true,
+  "vimMode": true,
+  "spellcheckDictionary": [
+    "Irreversibility",
+    "roducibility",
+    "roducibility",
+    "roducibility",
+    "cryptographic",
+    "roducibility",
+    "Rep",
+    "roducibility",
+    "JWTs",
+    "lmao",
+    "JWTs",
+    "JWTs",
+    "JWTs",
+    "itsself",
+    "br",
+    "roducibility",
+    "Reproducibility",
+    "decrypt",
+    "decrypted",
+    "iss",
+    "iat",
+    "nmp",
+    "npm",
+    "Vercel",
+    "Prisma",
+    "prisma",
+    "url",
+    "env",
+    "datasource"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "944b61f71f8806e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "593a8af558a86aed",
+        "type": "leaf",
+        "dimension": 48.18731117824773,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Angular-Adventure/JWTs.md",
+            "mode": "source"
+          }
+        },
+        "group": "3e2a79b4b4f97468"
+      },
+      {
+        "id": "7d8ea617d232ba7b",
+        "type": "leaf",
+        "dimension": 51.81268882175226,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Angular-Adventure/JWTs.md",
+            "mode": "preview"
+          }
+        },
+        "group": "3e2a79b4b4f97468"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2bf1dfe8cf3c35d",
+    "type": "split",
+    "children": [
+      {
+        "id": "41ef7f344bb34aba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad8ca2a52e6321b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9dccc6540cd1592",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 151
+  },
+  "right": {
+    "id": "00aa596d0fe04053",
+    "type": "split",
+    "children": [
+      {
+        "id": "9de8662f19076dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d0da8c8b633f2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angular-Adventure/JWTs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7d8ea617d232ba7b",
+  "lastOpenFiles": [
+    "Angular-Adventure/JWTs.md",
+    "Angular-Adventure/Prisma.md",
+    "Prisma Workflow.md",
+    "JWTs.md",
+    "Untitled.md"
+  ]
+}
