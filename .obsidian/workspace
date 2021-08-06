@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "593a8af558a86aed",
+        "id": "e895c617d97dd0df",
         "type": "leaf",
-        "dimension": 48.18731117824773,
+        "dimension": 48.17970565453137,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular-Adventure/JWTs.md",
+            "file": "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Component Interactions.md",
             "mode": "source"
           }
         },
-        "group": "3e2a79b4b4f97468"
+        "group": "1d5b351aa1780cb0"
       },
       {
-        "id": "7d8ea617d232ba7b",
+        "id": "12799a6d57f84ca0",
         "type": "leaf",
-        "dimension": 51.81268882175226,
+        "dimension": 51.82029434546863,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Angular-Adventure/JWTs.md",
+            "file": "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Component Interactions.md",
             "mode": "preview"
           }
         },
-        "group": "3e2a79b4b4f97468"
+        "group": "1d5b351aa1780cb0"
       }
     ],
     "direction": "vertical"
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 151
+    "width": 185
   },
   "right": {
     "id": "00aa596d0fe04053",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular-Adventure/JWTs.md",
+                "file": "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Component Interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,12 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d8ea617d232ba7b",
+  "active": "e895c617d97dd0df",
   "lastOpenFiles": [
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Component Interactions.md",
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Lifecycle Hooks.md",
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Components.md",
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Services/Services.md",
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Services/Untitled.md",
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Untitled.md",
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Templates.md",
+    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Styles.md",
     "Angular-Adventure/JWTs.md",
-    "Angular-Adventure/Prisma.md",
-    "Prisma Workflow.md",
-    "JWTs.md",
-    "Untitled.md"
+    "Angular-Adventure/Prisma.md"
   ]
 }
