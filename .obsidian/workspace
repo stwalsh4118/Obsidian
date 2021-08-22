@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/MINI-BASIC.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/MINI-BASIC.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Theory/MINI-BASIC.md",
+                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +103,8 @@
   },
   "active": "e895c617d97dd0df",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Theory/Untitled.md",
     "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+    "Computer Science/Computer Science Theory/Untitled.md",
     "Computer Science/Computer Science Theory/Compiler Design Theory.md",
     "Angular-Adventure/JWTs.md",
     "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Templates.md",
