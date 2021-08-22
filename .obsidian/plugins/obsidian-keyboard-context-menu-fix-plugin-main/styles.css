@@ -1,3 +1,0 @@
-.menu-item:focus:not(.is-disabled):not(.is-label) {
-  background-color: var(--background-secondary);
-}

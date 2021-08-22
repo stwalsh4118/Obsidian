@@ -63,7 +63,15 @@
     "lifecycle",
     "async",
     "EventEmitter",
-    "ViewChild"
+    "ViewChild",
+    "directionally",
+    "MissionService",
+    "modularity",
+    "typeof",
+    "instanceof",
+    "bitwise",
+    "namespace",
+    "Exponentiations"
   ],
   "alwaysUpdateLinks": true
 }
