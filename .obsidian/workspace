@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
+                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +92,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "326b820a081c078e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -103,15 +111,15 @@
   },
   "active": "e895c617d97dd0df",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
     "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
     "Computer Science/Computer Science Theory/Compiler Design Theory/MINI-BASIC.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Templates.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Styles.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Pipes.md",
     "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Lifecycle Hooks.md",
     "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Components.md",
     "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Component Interactions.md",
-    "Introduction.md",
-    "Computer Science/Computer Science Theory/MINI-BASIC.md",
-    "Computer Science/Computer Science Theory/Untitled.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory.md"
+    "Introduction.md"
   ]
 }

@@ -6,9 +6,9 @@ There is a gap in the ability for humans to communicate with machines in general
 
 This task, the creation of this stream of bits from our human artificial language, is completed with the help of a <span class="purple">***language processor***</span>, meant to bridge the proverbial gap in language between man and machine.
 
-There are two different types of said language processors, generally speaking; 
+There are two different types of said language processors, generally speaking;
 
-<span class="red">**Interpreters**</span> and <span class="blue">**Translators**</span>
+#### <span class="red">**Interpreters**</span> and <span class="blue">**Translators**</span>
 
 <span class="red">Interpreters</span> accept an input program from a *source language* and subsequently perform the operations within the program directly.
 
@@ -39,7 +39,7 @@ flowchart LR
 	
 ```
 
-<span class="green">**Lexical Box**</span>
+#### <span class="green">**Lexical Box**</span>
 
 The lexical box gets the bit patterns representing the strings that make up the source program.*** Its job is to separate those bits into the individual words that they represent.***
 
@@ -52,7 +52,7 @@ Each *token* contains two parts, a class part and a value part. For example the 
 
 We can equate the process that the Lexical Box does on our input as collecting the individual letters in the string into words and then finding the meaning of those words in the dictionary; the dictionary being the symbol table in our case.
 
-<span class="orange">**Syntax Box**</span>
+#### <span class="orange">**Syntax Box**</span>
 
 **The Syntax Box's job is to take the tokens and their order from the Lexical Box and transform them into an order that represents the order in which the programmer intends the operations to be carried out.**
 
@@ -73,7 +73,7 @@ $$\text{MULT(B, C, R1) ADD(A, R1, R2)}$$
  The syntactical rules alluded to above can be seen as analogous to the grammar associated with a natural language, like English, and the transformation from the Lexical Box output to the Syntax Box output can be seen as a translation between two natural languages, like English to German.
  
  
- <span class="brown">**Code Generator**</span>
+ #### <span class="brown">**Code Generator**</span>
  
  The code generators job is the take the atoms from the Syntax Box and expand them into machine operations that will carry out the same intent as the atoms. This expansion may change depending on certain conditions, for example, the current state of the run time, the table values being accessed in the atoms, the state of the registers, etc. 
  
@@ -120,8 +120,21 @@ The compiler itsself is a translator but it itsself is not the thing doing the t
 
 The design theory consists of two parts:
 
-1. the mathematical study of these machines including
- 
- 
- 
- 
+1. The mathematical study of these machines including:
+	1. Their capabilities as language translators
+	2. Their synthesis, given the translations they are to perform
+2. The application of this theory to compiler design including:
+	1. Expressing the design of the compiler (or a box of a compiler) as an interconnection of these machine models
+	2. Implementing or simulating these models as a computer program
+
+
+---
+### 1.6 The MINI-BASIC Compiler
+
+Within the course of this book we will carry out the design of the [[MINI-BASIC]] compiler. It will bring up many of the actual functionalities and problems represented in the general compiler case. It will be a one-pass compiler based off of the [[#1 2 A Naive Compiler Model|Naive Model]] and consist of a [[#span class green Lexical Box span|lexical box]], [[#span class orange Syntax Box span|syntax box]], and a [[#span class brown Code Generator span|code generator]]. Each box is assumed to be a *completely separate* entity. 
+
+The process in which the compiler will carry out is as follows:
+
+The lexical box will process a symbol from its input then either process another input or tell the syntax box to wake up. When the syntax box wakes up it will produce an output from its input and then either produce more outputs (by either already having inputs or asking the lexical box for more inputs) or tell the code generator to wake up. The code generator will then produce the final output from the input then either produce more output or ask the syntax box for more input, etc, etc, until the entire source program has been translated to machine code.
+
+
