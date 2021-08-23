@@ -16,6 +16,7 @@ There are two different types of said language processors, generally speaking;
 
 Common foundation of all compilers is based within Automata Theory.
 
+
 ---
 ### 1.2 A Naive Compiler Model
 
@@ -86,7 +87,7 @@ $$\text{MULT(B, C, R1) ADD(A, R1, R2)}$$
  Some subactivites which are solely created to produce more efficient code, not necessarily needed to make functioning code, can be called *optimizations*.
  
  ---
- ### Passes And Boxes
+ ### 1.3 Passes And Boxes
  
  The control flow between the boxes can be set up in multiple ways, four of those being: single-pass and three-pass, and two two-pass.
  
