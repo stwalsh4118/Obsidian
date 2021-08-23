@@ -9,4 +9,5 @@
 	- 1.3 [[Introduction#1 3 Passes And Boxes|Passes And Boxes]]
 	- 1.4 [[Introduction#1 4 The Run-Time Implementation|The Run-Time Implementation]]
 	- 1.5 [[Introduction#1 5 Mathematical Translation Models|Mathematical Translation Models]]
+	- 1.6 [[Introduction#1 6 The MINI-BASIC Compiler|The MINI-BASIC Compiler]]
 

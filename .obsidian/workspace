@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
+                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e895c617d97dd0df",
+  "active": "12799a6d57f84ca0",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
     "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
     "Computer Science/Computer Science Theory/Compiler Design Theory/MINI-BASIC.md",
     "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Templates.md",
     "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Styles.md",
