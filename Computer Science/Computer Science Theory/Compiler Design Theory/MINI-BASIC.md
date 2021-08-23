@@ -1,5 +1,6 @@
 # MINI-BASIC Rundown
 
+---
 #### General Form of a MINI-BASIC program
 
 A program contains a sequence of lines with line indicators at the front of the line
@@ -14,7 +15,7 @@ Statements are executed in order by their line number unless control-flow is tak
 ```
 
 
-
+---
 ### NUMBERS
 
 A number can either be written as a sequence of decimal digits with or without the decimal point or with or without a sign, e.g.:
@@ -33,6 +34,7 @@ Or can be written in exponential notation like so
 .0000000001234E0
 ```
 
+---
 ### VARIABLES
 
 Denoted by a single letter or a single letter followed by a single digit
@@ -45,6 +47,7 @@ Q0
 ```
 
 
+---
 ### ARITHMETIC EXPRESSIONS
 
 Supports these operators
@@ -70,7 +73,7 @@ A + (B/(C+D)) * F ^ G ^ (H + B) + C
   The operations above are done in the specified order
 ```
 
-
+---
 ### STATEMENTS	
 
 ##### Assignment statement

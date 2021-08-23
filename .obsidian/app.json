@@ -71,7 +71,11 @@
     "instanceof",
     "bitwise",
     "namespace",
-    "Exponentiations"
+    "Exponentiations",
+    "Automata",
+    "substrings",
+    "subactivites",
+    "automata"
   ],
   "alwaysUpdateLinks": true
 }

@@ -6,11 +6,11 @@
       {
         "id": "e895c617d97dd0df",
         "type": "leaf",
-        "dimension": 50.42602633617352,
+        "dimension": 41.92331866750472,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "12799a6d57f84ca0",
         "type": "leaf",
-        "dimension": 49.57397366382649,
+        "dimension": 58.07668133249528,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "e895c617d97dd0df",
   "lastOpenFiles": [
+    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/Introduction.md",
     "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+    "Computer Science/Computer Science Theory/Compiler Design Theory/MINI-BASIC.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Lifecycle Hooks.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Components.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Component Interactions.md",
+    "Introduction.md",
     "Computer Science/Computer Science Theory/MINI-BASIC.md",
     "Computer Science/Computer Science Theory/Untitled.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory.md",
-    "Angular-Adventure/JWTs.md",
-    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Templates.md",
-    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Lifecycle Hooks.md",
-    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Components.md",
-    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Component Interactions.md",
-    "Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Pipes.md"
+    "Computer Science/Computer Science Theory/Compiler Design Theory.md"
   ]
 }
