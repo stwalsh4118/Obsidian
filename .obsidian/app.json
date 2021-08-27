@@ -75,7 +75,13 @@
     "Automata",
     "substrings",
     "subactivites",
-    "automata"
+    "automata",
+    "Recognizers",
+    "FSMs",
+    "fn",
+    "rustc",
+    "booleans"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Computer Science"
 }

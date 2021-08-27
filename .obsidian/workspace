@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.1 Language Processors.md",
+            "file": "Computer Science/Rust/Chapter 3/Data Types.md",
             "mode": "source"
           }
         },
-        "group": "c63198fb4d427a04"
+        "group": "1a478ea190f5542a"
       },
       {
-        "id": "b4552de0e8106d00",
+        "id": "f26da00adec3aa76",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.1 Language Processors.md",
-            "mode": "preview"
+            "file": "Computer Science/Rust/Chapter 3/Data Types.md",
+            "mode": "source"
           }
         },
-        "group": "c63198fb4d427a04"
+        "group": "1a478ea190f5542a"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.1 Language Processors.md",
+                "file": "Computer Science/Rust/Chapter 3/Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,24 +100,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "e895c617d97dd0df",
+  "active": "f26da00adec3aa76",
   "lastOpenFiles": [
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.1 Language Processors.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.2 A Naive Compiler Model.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.3 Passes And Boxes.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.4 The Run-Time Implementation.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.5 Mathematical Translation Models.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/1. Introduction/1.6 The MINI-BASIC Compiler.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/2. Finite-State Machines/2.1 Introduction.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/Chapters/2. Finite-State Machines/Untitled.md",
-    "Computer Science/Computer Science Theory/Compiler Design Theory/MINI-BASIC.md"
+    "Computer Science/Rust/Chapter 3/Data Types.md",
+    "Compound Data Types.md",
+    "Computer Science/Rust/Chapter 3/Variables and Mutability.md",
+    "Computer Science/Rust/Chapter 3/Scalar Data Types.md",
+    "Computer Science/Rust/Chapter 2/Programming a Guessing Game.md",
+    "Computer Science/Rust/Chapter 1/Cargo.md",
+    "Computer Science/Rust/Chapter 1/Introduction.md",
+    "Scalar Data Types.md",
+    "Computer Science/Rust/Chapter 2/let.md",
+    "Data Types.md"
   ]
 }
