@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "e895c617d97dd0df",
+        "id": "407cb9610dd79d53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Rust/Chapter 3/Data Types.md",
+            "file": "Computer Science/Rust/Chapter 3/Data Types/Compound Data Types.md",
             "mode": "source"
           }
         },
-        "group": "1a478ea190f5542a"
+        "group": "b9f3290378b3f8a8"
       },
       {
-        "id": "f26da00adec3aa76",
+        "id": "a6be6c09acbf6135",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Science/Rust/Chapter 3/Data Types.md",
-            "mode": "source"
+            "file": "Computer Science/Rust/Chapter 3/Data Types/Compound Data Types.md",
+            "mode": "preview"
           }
         },
-        "group": "1a478ea190f5542a"
+        "group": "b9f3290378b3f8a8"
       }
     ],
     "direction": "vertical"
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "semi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Rust/Chapter 3/Data Types.md",
+                "file": "Computer Science/Rust/Chapter 3/Data Types/Compound Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "id": "326b820a081c078e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           }
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f26da00adec3aa76",
+  "active": "407cb9610dd79d53",
   "lastOpenFiles": [
-    "Computer Science/Rust/Chapter 3/Data Types.md",
-    "Compound Data Types.md",
-    "Computer Science/Rust/Chapter 3/Variables and Mutability.md",
-    "Computer Science/Rust/Chapter 3/Scalar Data Types.md",
-    "Computer Science/Rust/Chapter 2/Programming a Guessing Game.md",
-    "Computer Science/Rust/Chapter 1/Cargo.md",
-    "Computer Science/Rust/Chapter 1/Introduction.md",
-    "Scalar Data Types.md",
-    "Computer Science/Rust/Chapter 2/let.md",
-    "Data Types.md"
+    "Computer Science/Rust/Chapter 3/Data Types/Compound Data Types.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Services/Services.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Pieces-Of-The-Pie/Components/Components.md",
+    "Computer Science/Web Development/Angular-Adventure/Angular/Angular.md",
+    "Computer Science/Rust/Chapter 3/Data Types/Data Types.md",
+    "Computer Science/Rust/Rust.md",
+    "Computer Science/Computer Science Theory/Compiler Design Theory/Compiler Design Theory.md",
+    "Computer Science/Rust/Chapter 3/Functions.md",
+    "Computer Science/Rust/Chapter 3/Data Types/Scalar Data Types.md",
+    "Computer Science/Rust/Chapter 2/Programming a Guessing Game.md"
   ]
 }

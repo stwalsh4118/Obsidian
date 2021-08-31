@@ -80,7 +80,8 @@
     "FSMs",
     "fn",
     "rustc",
-    "booleans"
+    "booleans",
+    "destructure"
   ],
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Computer Science"

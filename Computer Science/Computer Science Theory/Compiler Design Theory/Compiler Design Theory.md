@@ -10,4 +10,3 @@
 	- [[1.4 The Run-Time Implementation]]
 	- [[1.5 Mathematical Translation Models]]
 	- [[1.6 The MINI-BASIC Compiler]]
-

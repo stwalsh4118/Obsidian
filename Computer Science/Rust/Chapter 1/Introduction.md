@@ -5,7 +5,7 @@ fn main() {
 }
 ```
 
-Designate functions with fn
+Designate [[Functions|functions]] with fn
 
 The main function is the first code that runs in every Rust program
 
@@ -13,7 +13,7 @@ The main function is the first code that runs in every Rust program
 
 This line prints "Hello World" to the terminal, note the '!' this means its running a Rust macro not a function.
 
-End lines with semi-colons
+End [[Functions#^807f16|statements]] with semi-colons
 
 Compile your simple program using rustc `<file-name>`
 
